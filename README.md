@@ -4,7 +4,7 @@
 
 ### Currently:
 - 💻  Working as a software enginering intern at [Wealthsimple](https://wealthsimple.com)
-- 🔭  Working as the Frontend Lead at [Hack The North](https://hackthenorth.com)
+- ⚙️ Working as the Frontend Lead at [Hack The North](https://hackthenorth.com)
 - 🏫  Studying at [University of Waterloo](https://www.uwaterloo.ca/)
 - 🎶 Checkout my latest project [Explore Spotify](https://explorespotify.com)
 
