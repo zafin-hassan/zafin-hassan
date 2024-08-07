@@ -2,8 +2,7 @@
 ---
 
 ### Currently:
-- ⚙️ Working on [With Coverage](https://withcoverage.com)
-- 🏫  Studying at [University of Waterloo](https://www.uwaterloo.ca/)
+- ⚙️ Working on [Slash](https://joinslash.com)
 
 ### 📫  How to reach me: [Twitter](https://twitter.com/zafinhassan)
 
